@@ -1,0 +1,10 @@
+C:\Users\dlockwood024548\Documents\SQL Tester\Searching the Books DB Solution\Searching the Books DB Project\obj\Debug\Searching the Books DB Project.csprojAssemblyReference.cache
+C:\Users\dlockwood024548\Documents\SQL Tester\Searching the Books DB Solution\Searching the Books DB Project\obj\Debug\Searching_the_Books_DB_Project.frmBooks.resources
+C:\Users\dlockwood024548\Documents\SQL Tester\Searching the Books DB Solution\Searching the Books DB Project\obj\Debug\Searching_the_Books_DB_Project.Properties.Resources.resources
+C:\Users\dlockwood024548\Documents\SQL Tester\Searching the Books DB Solution\Searching the Books DB Project\obj\Debug\Searching the Books DB Project.csproj.GenerateResource.cache
+C:\Users\dlockwood024548\Documents\SQL Tester\Searching the Books DB Solution\Searching the Books DB Project\obj\Debug\Searching the Books DB Project.csproj.CoreCompileInputs.cache
+C:\Users\dlockwood024548\Documents\SQL Tester\Searching the Books DB Solution\Searching the Books DB Project\bin\Debug\Searching the Books DB Project.exe.config
+C:\Users\dlockwood024548\Documents\SQL Tester\Searching the Books DB Solution\Searching the Books DB Project\bin\Debug\Searching the Books DB Project.exe
+C:\Users\dlockwood024548\Documents\SQL Tester\Searching the Books DB Solution\Searching the Books DB Project\bin\Debug\Searching the Books DB Project.pdb
+C:\Users\dlockwood024548\Documents\SQL Tester\Searching the Books DB Solution\Searching the Books DB Project\obj\Debug\Searching the Books DB Project.exe
+C:\Users\dlockwood024548\Documents\SQL Tester\Searching the Books DB Solution\Searching the Books DB Project\obj\Debug\Searching the Books DB Project.pdb
